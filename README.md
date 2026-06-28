@@ -20,9 +20,6 @@ Rather than simply predicting whether a customer will churn, the project focuses
 
 > <img width="1502" height="797" alt="image" src="https://github.com/user-attachments/assets/276d7560-9952-496f-95c3-e89ced2163b1" />
 
-```
-
----
 
 # 📈 Business Insights & Recommendations
 
